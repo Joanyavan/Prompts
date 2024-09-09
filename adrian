@@ -1,0 +1,384 @@
+	Para que sean mas efectivos, cada prompt debe ser usado en un nuevo chat.
+Copia y pega el prompt como está, personalizando con tus necesidades la información que aparece dentro de los corchetes [ejemplo].
+
+	No temas en darle mas instrucciones después de ese prompt para que el modelo se adapte a tus necesidades concretas. 
+
+INDICE;
+
+Índice de Prompts
+1. Comparador de Ordenadores
+
+2. Planificador de Viajes
+
+3. Comparador de Tarifas de Servicios Públicos (Electricidad, Gas, Internet)
+
+4. Organizador de Tareas del Hogar
+
+5. Planificador de Presupuesto Mensual
+
+6. Guía de Mantenimiento de Vehículos
+
+7. Planificador de Dieta Personalizada
+
+8. Asistente de Compra de Seguros
+
+9. Organizador de Documentos Importantes
+
+10. Planificador de Renovaciones o Reparaciones del Hogar
+
+11. Asistente de Compras para Grandes Electrodomésticos
+
+
+
+
+
+
+
+
+
+
+
+1. Comparador de Ordenadores
+· PROMPT
+ChatGPT, estoy buscando comprar un nuevo ordenador y necesito que me ayudes a comparar diferentes modelos. Aquí están los detalles:
+1. Modelos a Comparar:
+[Modelo 1]
+[Modelo 2]
+[Modelo 3]
+2. Uso Principal:
+[Gaming, Diseño Gráfico, Trabajo de Oficina, etc.]
+3. Criterios de Comparación:
+Rendimiento: Procesador, RAM, Tarjeta Gráfica
+Precio: Relación calidad-precio, ofertas disponibles
+Durabilidad: Calidad de construcción, garantía, soporte técnico
+Otros Factores: Peso, portabilidad, conectividad
+4. Presupuesto:
+[Cantidad en tu moneda local]
+Con esta información, por favor, proporcióname una comparación detallada de estos modelos y una recomendación final basada en mis necesidades y presupuesto. Si es posible, incluye sugerencias de modelos alternativos que ofrezcan un mejor equilibrio entre precio y rendimiento.
+Hazme las preguntas necesarias que consideres para ayudarme de manera más eficiente en esta tarea.
+FIN DEL PROMPT
+
+
+
+
+
+2. Planificador de Viajes
+· PROMPT
+ChatGPT, necesito planificar un viaje a [Destino] por [número de días]. Aquí están los detalles que quiero que consideres:
+1. Fechas del Viaje:
+[Fecha de inicio y fin]
+2. Presupuesto Total:
+[Cantidad en tu moneda local]
+3. Intereses y Preferencias:
+Actividades preferidas (ej. turismo cultural, naturaleza, gastronomía, compras)
+Transporte preferido (ej. transporte público, alquiler de coche)
+Tipo de alojamiento (ej. hoteles, hostales, Airbnb)
+4. Itinerario Diario:
+Sugerencias de las mejores atracciones y actividades
+Recomendaciones de restaurantes y lugares para comer
+Opciones de transporte para desplazarse entre destinos
+5. Consejos Locales:
+Costumbres o normas culturales importantes
+Lugares fuera de lo común o secretos locales
+Por favor, proporcióname un itinerario detallado para cada día del viaje, asegurándote de optimizar el tiempo y el presupuesto mientras se disfruta de las mejores experiencias en [Destino].
+Hazme las preguntas necesarias que consideres para ayudarme de manera más eficiente en esta tarea, como el tipo de transporte que usaré, si recomiendo alquilar coche, o detalles específicos de la ruta.
+FIN DEL PROMPT
+
+
+
+
+
+3. Comparador de Tarifas de Servicios Públicos (Electricidad, Gas, Internet)
+· PROMPT
+ChatGPT, quiero comparar tarifas de servicios públicos en mi área, específicamente para [Electricidad, Gas, Internet]. Aquí están los detalles necesarios:
+1. Ubicación:
+[Ciudad, región, país]
+2. Consumo Mensual Estimado:
+Electricidad: [Cantidad en kWh]
+Gas: [Cantidad en m³]
+Internet: [Velocidad requerida, consumo de datos]
+3. Criterios de Comparación:
+Precio: Coste mensual estimado
+Fiabilidad del servicio: Evaluaciones de usuarios y calidad del servicio
+Opciones de contrato: Duración, flexibilidad, penalizaciones por cancelación
+4. Prioridades:
+Prefiero la opción más económica, pero valoro también [Fiabilidad, Velocidad, Atención al Cliente, etc.]
+Con estos detalles, por favor, compara las tarifas disponibles y recomiéndame la mejor opción según mi consumo y prioridades. Incluye cualquier promoción o descuento que pueda aplicar.
+Hazme las preguntas necesarias que consideres para ayudarme de manera más eficiente en esta tarea.
+FIN DEL PROMPT
+
+
+
+
+
+
+
+4. Organizador de Tareas del Hogar
+· PROMPT
+ChatGPT, quiero organizar las tareas del hogar entre [número de personas] personas que viven en mi casa. Aquí tienes los detalles para crear un calendario eficiente:
+1. Tareas a Incluir:
+Limpieza de la casa: [Habitaciones específicas, frecuencia]
+Cocina: [Preparación de comidas, limpieza después de cocinar]
+Compras: [Supermercado, productos específicos]
+Mantenimiento del hogar: [Reparaciones, cuidado del jardín]
+Otras tareas: [Especificar]
+2. Preferencias de los Miembros:
+[Nombre 1]: Prefiere [tareas específicas] y está disponible [días/horarios]
+[Nombre 2]: Prefiere [tareas específicas] y está disponible [días/horarios]
+[Nombre 3]: Prefiere [tareas específicas] y está disponible [días/horarios]
+3. Rotación de Tareas:
+Frecuencia de rotación: [Semanal, quincenal, etc.]
+4. Consideraciones Especiales:
+[Ej. días de descanso, tareas que requieren más tiempo o esfuerzo]
+Por favor, crea un calendario semanal donde las tareas se distribuyan equitativamente entre todos, asegurando que las responsabilidades rotan de manera justa y eficiente.
+Hazme las preguntas necesarias que consideres para ayudarme de manera más eficiente en esta tarea.
+
+FIN DEL PROMPT
+
+
+
+
+
+
+
+
+
+
+
+
+
+5. Planificador de Presupuesto Mensual
+· PROMPT
+ChatGPT, necesito ayuda para crear un presupuesto mensual detallado basado en los siguientes ingresos y gastos. Mi ingreso mensual neto es de [cantidad en tu moneda local]. A continuación, te proporcionaré una lista de mis gastos fijos y variables, mis metas financieras, y algunos detalles adicionales para optimizar mi presupuesto.
+1. Gastos Fijos:
+Alquiler/Hipoteca: [cantidad]
+Servicios Públicos (electricidad, agua, gas): [cantidad]
+Internet y Teléfono: [cantidad]
+Seguro de Salud: [cantidad]
+Transporte (gasolina, transporte público): [cantidad]
+Otros gastos fijos (suscripciones, préstamos): [detallar cada uno con cantidad]
+2. Gastos Variables:
+Alimentos (supermercado, comer fuera): [cantidad]
+Entretenimiento (cine, salidas, hobbies): [cantidad]
+Ropa y Calzado: [cantidad]
+Salud (medicamentos, citas médicas): [cantidad]
+Otros gastos variables: [detallar cada uno con cantidad]
+3. Metas Financieras:
+Ahorro de Emergencia: [cantidad objetivo]
+Ahorro para Viajes: [cantidad objetivo]
+Pago de Deuda: [detallar tipo de deuda y cantidad]
+Inversión (si aplica): [detallar tipo de inversión y cantidad objetivo]
+4. Detalles Adicionales:
+Previsión de gastos no anticipados (por ejemplo, reparaciones del coche, eventos inesperados): [cantidad que te gustaría reservar]
+Frecuencia de pagos (quincenal, mensual, etc.)
+Preferencias para optimizar gastos (áreas en las que te gustaría reducir costos)
+¿Deseas asignar un porcentaje fijo de tus ingresos a ahorros antes de distribuir el resto? Si es así, especifica el porcentaje.
+Teniendo en cuenta esta información, me gustaría que estructuraras un plan de presupuesto mensual que:
+Maximice mis ahorros mientras cubre todos mis gastos esenciales.
+Me permita alcanzar mis metas financieras en el plazo previsto.
+Sugiera áreas donde podría reducir costos para optimizar mis gastos.
+Incluya un plan para manejar cualquier ingreso adicional o inesperado.
+Hazme las preguntas necesarias que consideres para ayudarme de manera más eficiente en esta tarea, como preferencias de ahorro, prioridades entre metas financieras o detalles adicionales que deban considerarse.
+
+FIN DEL PROMPT
+
+
+
+6. Guía de Mantenimiento de Vehículos
+· PROMPT
+ChatGPT, necesito crear un calendario de mantenimiento para mi coche, un [marca y modelo]. Aquí tienes los detalles relevantes:
+1. Kilometraje Actual:
+[Introduce el kilometraje actual]
+2. Uso Anual Estimado:
+[Introduce el kilometraje que planeas recorrer anualmente]
+3. Recomendaciones del Fabricante:
+[Detalles de mantenimiento recomendados por el fabricante si los tienes, o puedes pedir que los busque ChatGPT]
+4. Tareas de Mantenimiento Específicas:
+Cambios de aceite: [Frecuencia según el uso]
+Revisión de frenos: [Frecuencia]
+Rotación de neumáticos: [Frecuencia]
+Cambio de filtros: [Frecuencia]
+Otros mantenimientos importantes: [Especificar]
+5. Consideraciones Adicionales:
+¿Debería incluir recordatorios para revisiones técnicas o inspecciones?
+¿Prefieres realizar alguna de estas tareas por ti mismo o dejarlas en manos de un profesional?
+Con esta información, por favor, crea un calendario de mantenimiento detallado que me ayude a mantener mi coche en óptimas condiciones y a evitar problemas inesperados.
+Hazme las preguntas necesarias que consideres para ayudarme de manera más eficiente en esta tarea, como la marca y el modelo específico, o el tipo de mantenimiento adicional que podría ser útil.
+
+FIN DEL PROMPT
+
+
+
+
+
+
+
+
+
+
+
+
+
+7. Planificador de Dieta Personalizada
+· PROMPT
+ChatGPT, me gustaría que me ayudaras a planificar una dieta semanal personalizada que se adapte a mis objetivos y preferencias alimentarias. Aquí están los detalles que debes considerar:
+1. Objetivo de la Dieta:
+[Perder peso, ganar músculo, mantener peso, etc.]
+2. Preferencias Alimentarias:
+[Vegetariano, Vegano, Sin gluten, Baja en carbohidratos, etc.]
+3. Restricciones Dietéticas:
+[Alergias, Intolerancias, Condiciones de salud]
+4. Frecuencia de Comidas:
+[Número de comidas al día, snacks]
+5. Ejemplos de Alimentos Favoritos:
+[Detalla tus alimentos preferidos y aquellos que prefieres evitar]
+6. Recetas Preferidas:
+[Si tienes recetas que te gustaría incluir o tipos de cocina que prefieres]
+Con esta información, por favor, crea un plan de comidas semanal que incluya desayunos, almuerzos, cenas y snacks. Asegúrate de que el plan sea balanceado, variado y se ajuste a mis metas de salud.
+Hazme las preguntas necesarias que consideres para ayudarme de manera más eficiente en esta tarea, como el tipo de comidas que prefiero, el tiempo disponible para cocinar, o la necesidad de preparar comidas para llevar.
+
+FIN DEL PROMPT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8. Asistente de Compra de Seguros
+· PROMPT
+ChatGPT, necesito comparar pólizas de seguro de [tipo: coche, hogar, salud] para elegir la mejor opción. Aquí están los detalles que debes considerar:
+1. Presupuesto:
+[Cantidad en tu moneda local]
+2. Coberturas Necesarias:
+[Cobertura total, cobertura contra terceros, cobertura de salud completa, etc.]
+3. Factores Clave:
+[Preferencias sobre cobertura geográfica, asistencia en carretera, etc.]
+4. Duración del Contrato:
+[Duración deseada, preferencia por contratos a largo plazo o flexibles]
+5. Preferencias Personales:
+[Ej. prefiero compañías con buena reputación en servicio al cliente]
+Con esta información, por favor, compara varias opciones disponibles y recomiéndame la póliza que mejor se ajuste a mis necesidades y presupuesto.
+Hazme las preguntas necesarias que consideres para ayudarme de manera más eficiente en esta tarea, como detalles adicionales sobre mis necesidades de cobertura o la preferencia por ciertas aseguradoras.
+
+FIN DEL PROMPT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9. Organizador de Documentos Importantes
+· PROMPT
+ChatGPT, necesito organizar mis documentos importantes de manera eficiente. Aquí están los detalles que deben considerarse:
+1. Tipos de Documentos:
+Seguros: [detalla los tipos, ej. seguro de coche, salud, hogar]
+Contratos: [ej. contrato de alquiler, contrato de trabajo]
+Recibos: [detalla los más importantes, ej. impuestos, facturas médicas]
+Documentos Personales: [ej. pasaporte, acta de nacimiento]
+2. Preferencias de Organización:
+[Formato físico, digital, o ambos]
+[Categorías específicas para la organización, ej. por año, por tipo de documento]
+3. Frecuencia de Revisión:
+[Mensual, trimestral, anual]
+4. Recordatorios:
+Necesito recordatorios para actualizar o revisar documentos específicos [detallar si es necesario]
+Con esta información, por favor, ayúdame a crear un sistema de organización para mis documentos que sea fácil de mantener y me permita encontrar lo que necesito rápidamente.
+Hazme las preguntas necesarias que consideres para ayudarme de manera más eficiente en esta tarea, como detalles adicionales sobre cómo prefiero acceder a mis documentos o la necesidad de incluir documentos específicos.
+
+FIN DEL PROMPT
+
+
+
+
+
+
+
+
+
+
+
+
+
+10. Planificador de Renovaciones o Reparaciones del Hogar
+· PROMPT
+ChatGPT, quiero planificar una renovación de [especificar: baño, cocina, etc.] en mi casa con un presupuesto de [introduce presupuesto]. Aquí tienes los detalles que debes considerar:
+1. Objetivo de la Renovación:
+[Actualizar el estilo, mejorar la funcionalidad, aumentar el valor de la propiedad, etc.]
+2. Materiales Preferidos:
+[Ej. azulejos de cerámica, encimeras de granito, pintura ecológica]
+3. Cronograma:
+[Fechas preferidas para iniciar y finalizar el proyecto]
+4. Tareas a Realizar:
+[Lista de trabajos específicos, ej. instalación de nuevos electrodomésticos, cambio de tuberías]
+5. Preferencias de Mano de Obra:
+[Contratar profesionales, hacer algunas tareas por cuenta propia]
+Con esta información, por favor, crea un plan de renovación detallado que incluya un cronograma, un desglose del presupuesto y recomendaciones sobre cómo maximizar la eficiencia y los resultados de la renovación.
+Hazme las preguntas necesarias que consideres para ayudarme de manera más eficiente en esta tarea, como detalles adicionales sobre mis expectativas de la renovación o el nivel de detalle en el cronograma.
+
+FIN DEL PROMPT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11. Asistente de Compras para Grandes Electrodomésticos
+· PROMPT
+ChatGPT, estoy buscando comprar un [electrodoméstico específico: refrigerador, lavadora, lavavajillas]. Aquí están los detalles que debes considerar:
+1. Presupuesto:
+[Cantidad en tu moneda local]
+2. Criterios de Selección:
+Eficiencia energética: [Nivel deseado, ej. A++ o superior]
+Capacidad: [Tamaño, volumen, etc.]
+Funcionalidades: [Ej. características especiales, conectividad inteligente]
+3. Durabilidad y Garantía:
+[Preferencia por marcas reconocidas, garantía extendida, etc.]
+4. Opciones de Compra:
+[Comprar en tienda física, en línea, considerar ofertas o promociones]
+Con esta información, por favor, compara varios modelos disponibles y recomiéndame el mejor según mis necesidades y presupuesto. Incluye un análisis de la relación calidad-precio.
+Hazme las preguntas necesarias que consideres para ayudarme de manera más eficiente en esta tarea, como especificar el tipo de funcionalidades adicionales que podrían ser importantes o preferencias de compra.
+
+FIN DEL PROMPT
+
+
+Si te ha sido de utilidad recuerda que puedes encontrarme en: 
+
+ Youtube Canal Error 404: https://www.youtube.com/@E4Cero4
+Youtube Canal Edrian.exe: https://www.youtube.com/@Edrian_Exe
+Instagram: https://www.instagram.com/edrian.exe
+Tiktok: https://www.tiktok.com/@.edrian.exe
+
+Mantente conectad@ para mas cosas de utilidad!
+Un saludo!!!
